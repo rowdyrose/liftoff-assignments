@@ -19,6 +19,6 @@ SQLAlchemy<br>
 Jinja2 templates
 
 ### What I'll Have to Learn
-I'm not sure yet what new things I would need to learn to complete this
+Compiler design
 ### Project Tracker
 https://trello.com/b/NhPRJoYn/capstone-project
