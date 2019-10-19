@@ -12,10 +12,10 @@ be able to select from a list of appropriate dressings based on wound info<br>
 
 
 ### Technologies
-Python
-Flask
-MySQL
-SQLAlchemy
+Python<br>
+Flask<br>
+MySQL<br>
+SQLAlchemy<br>
 Jinja2 templates
 
 ### What I'll Have to Learn
