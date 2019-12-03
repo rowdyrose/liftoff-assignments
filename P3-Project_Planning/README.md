@@ -9,7 +9,7 @@ A Dressing Selector Tool that allows you to find appropriate wound care dressing
 ### Wireframes
 
 <ul>
-<li><a href="20191202_212848.jpg">Image 1</a> </li>
+<li><a href="20191202_212848.jpg" width="50%">Image 1</a> </li>
 <li><a href="20191202_212854.jpg">Image 2</a> </li>
 </ul>
 
