@@ -8,7 +8,10 @@ A Dressing Selector Tool that allows you to find appropriate wound care dressing
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+<ul>
+<li><a href="P3-Project_Planning\20191202_212848.jpg">Image 1</a> </li>
+<li><a href="P3-Project_Planning\20191202_212854.jpg">Image 1</a> </li>
+</ul>
 
 ### Project Tracker
 https://trello.com/b/NhPRJoYn/capstone-project
